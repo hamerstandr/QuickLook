@@ -1,0 +1,10 @@
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\QuickLook.Plugin.PluginInstaller.csprojAssemblyReference.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\PluginInfoPanel.baml
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\PluginInfoPanel.g.cs
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\QuickLook.Plugin.PluginInstaller_MarkupCompile.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\QuickLook.Plugin.PluginInstaller.g.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\QuickLook.Plugin.PluginInstaller.csproj.CoreCompileInputs.cache
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\QuickLook.Plugin.PluginInstaller.dll
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\QuickLook.Plugin.PluginInstaller.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\QuickLook.Plugin.PluginInstaller.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.PluginInstaller\obj\Debug\QuickLook.Plugin.PluginInstaller.pdb

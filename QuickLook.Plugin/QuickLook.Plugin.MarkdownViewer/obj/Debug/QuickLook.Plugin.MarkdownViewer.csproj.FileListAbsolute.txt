@@ -1,0 +1,8 @@
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csprojAssemblyReference.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.Resources.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.GenerateResource.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.CoreCompileInputs.cache
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.dll
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.pdb

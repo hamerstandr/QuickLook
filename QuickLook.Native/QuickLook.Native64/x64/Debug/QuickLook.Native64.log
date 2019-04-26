@@ -1,0 +1,13 @@
+﻿  stdafx.cpp
+  DialogHook.cpp
+  DllExport.cpp
+  DOpus.cpp
+  Everything.cpp
+  HelperMethods.cpp
+C:\Intel\GitHub\QuickLook\QuickLook.Native\QuickLook.Native32\HelperMethods.cpp(68): warning C4229: anachronism used: modifiers on data are ignored
+  Shell32.cpp
+  WoW64HookHelper.cpp
+  Generating Code...
+  dllmain.cpp
+     Creating library C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Native64.lib and object C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Native64.exp
+  QuickLook.Native64.vcxproj -> C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Native64.dll

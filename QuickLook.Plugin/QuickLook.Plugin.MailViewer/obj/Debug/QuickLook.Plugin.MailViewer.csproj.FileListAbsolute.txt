@@ -1,0 +1,10 @@
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csprojAssemblyReference.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.g.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CoreCompileInputs.cache
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.dll
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CopyComplete
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.Resource.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.GenerateResource.cache

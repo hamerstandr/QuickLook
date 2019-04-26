@@ -1,0 +1,17 @@
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csprojAssemblyReference.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.g.cs
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.g.cs
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.lref
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.baml
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.baml
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.g.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CoreCompileInputs.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CopyComplete
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.GenerateResource.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.Resource.resources

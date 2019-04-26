@@ -1,0 +1,14 @@
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csprojAssemblyReference.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.g.cs
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.lref
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.baml
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.g.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CoreCompileInputs.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CopyComplete
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.Resource.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.GenerateResource.cache

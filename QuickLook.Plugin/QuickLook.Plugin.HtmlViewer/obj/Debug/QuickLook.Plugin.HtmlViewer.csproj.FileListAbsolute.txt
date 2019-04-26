@@ -1,0 +1,10 @@
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csprojAssemblyReference.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\Interop.SHDocVw.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.ResolveComReference.cache
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.CoreCompileInputs.cache
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.dll
+C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.dll
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.pdb
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.Resource.resources
+C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.GenerateResource.cache
