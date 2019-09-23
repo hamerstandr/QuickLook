@@ -35,8 +35,8 @@ namespace QuickLook.Plugin.VideoViewer
             ".3g2", ".3gp", ".3gp2", ".3gpp", ".amv", ".asf", ".asf", ".avi", ".flv", ".mts", ".m2ts", ".m4v", ".mkv",
             ".mov", ".mp4", ".mp4v", ".mpeg", ".mpg", ".ogv", ".qt", ".tp", ".ts", ".vob", ".webm", ".wmv",
             // audio
-            ".3gp", ".aa", ".aac", ".aax", ".act", ".aiff", ".amr", ".ape", ".au", ".awb", ".dct", ".dss", ".dvf",
-            ".flac", ".gsm", ".iklax", ".ivs", ".m4a", ".m4b", ".m4p", ".mmf", ".mp3", ".mpc", ".msv", ".ogg",
+            ".3gp", ".aa", ".aac", ".aax", ".act", ".aif", ".aiff", ".amr", ".ape", ".au", ".awb", ".dct", ".dss", ".dvf",
+            ".flac", ".gsm", ".iklax", ".ivs", ".m4a", ".m4b", ".m4p", ".m4r", ".mmf", ".mp3", ".mpc", ".msv", ".ogg",
             ".oga", ".mogg", ".opus", ".ra", ".rm", ".raw", ".tta", ".vox", ".wav", ".wma", ".wv", ".webm"
         };
 
@@ -82,16 +82,16 @@ namespace QuickLook.Plugin.VideoViewer
             context.TitlebarOverlap = true;
 
             if (_mediaInfo == null ||
-                !string.IsNullOrEmpty(_mediaInfo.Get(StreamKind.General, 0, "VideoCount"))) // video
+                 !string.IsNullOrWhiteSpace(_mediaInfo.Get(StreamKind.General, 0, "VideoCount"))) // video
             {
-                int.TryParse(_mediaInfo?.Get(StreamKind.Audio, 0, "Width"), out var width);
-                int.TryParse(_mediaInfo?.Get(StreamKind.Audio, 0, "Height"), out var height);
+                int.TryParse(_mediaInfo?.Get(StreamKind.Video, 0, "Width"), out var width);
+                int.TryParse(_mediaInfo?.Get(StreamKind.Video, 0, "Height"), out var height);
                 double.TryParse(_mediaInfo?.Get(StreamKind.Video, 0, "Rotation"), out var rotation);
                 
                 var windowSize = new Size
                 {
-                    Width = Math.Max(1366, width == 0 ? 1366 : width),
-                    Height = Math.Max(768, height == 0 ? 768 : height)
+                    Width = Math.Max(100, width == 0 ? 1366 : width),
+                    Height = Math.Max(100, height == 0 ? 768 : height)
                 };
 
                 if (rotation % 180 != 0)

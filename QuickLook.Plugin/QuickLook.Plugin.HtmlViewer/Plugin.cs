@@ -29,7 +29,7 @@ namespace QuickLook.Plugin.HtmlViewer
 {
     public class Plugin : IViewer
     {
-        private static readonly string[] Extensions = {".mht", ".mhtml", ".htm", ".html"};
+        private static readonly string[] Extensions = { ".mht", ".mhtml", ".htm", ".html", ".svg", ".url" };
 
         private WebpagePanel _panel;
 
@@ -49,7 +49,7 @@ namespace QuickLook.Plugin.HtmlViewer
 
         public void Prepare(string path, ContextObject context)
         {
-            context.PreferredSize = new Size(1000, 600);
+            context.PreferredSize = new Size(1280, 720);
         }
 
         public void View(string path, ContextObject context)
@@ -57,6 +57,10 @@ namespace QuickLook.Plugin.HtmlViewer
             _panel = new WebpagePanel();
             context.ViewerContent = _panel;
             context.Title = Path.IsPathRooted(path) ? Path.GetFileName(path) : path;
+            if (path.ToLower().EndsWith(".url"))
+            {
+                path = Helper.GetUrlPath(path);
+            }
 
             _panel.LoadFile(path);
             _panel.Dispatcher.Invoke(() => { context.IsBusy = false; }, DispatcherPriority.Loaded);

@@ -63,5 +63,25 @@ namespace QuickLook.Plugin.HtmlViewer
                 key?.SetValue(appName, value, RegistryValueKind.DWord);
             }
         }
+        internal static string GetUrlPath(string url)
+        {
+            int index = -1;
+            string[] lines = File.ReadAllLines(url);
+            foreach (string line in lines)
+            {
+                if (line.ToLower().Contains("url="))
+                {
+                    index = System.Array.IndexOf(lines, line);
+                    break;
+                }
+            }
+            if (index != -1)
+            {
+                var fullLine = lines.GetValue(index);
+                return fullLine.ToString().Substring(fullLine.ToString().LastIndexOf('=') + 1);
+            }
+            return url;
+        }
+        //
     }
 }
