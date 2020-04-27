@@ -10,12 +10,12 @@
 
 *This project is currently under heavy development. Come back often to see what's new.*
 
-<img src="http://pooi.moe/QuickLook/sample.gif?3" width="400">
+<img src="https://user-images.githubusercontent.com/1687847/64730506-2a60d100-d4e8-11e9-95a6-f13dbd869b2a.jpeg" width="400">
 
 ## Background
-One of the few features I missed from macOS is [Quick Look](https://en.wikipedia.org/wiki/Quick_Look). It allows user peek into a file content in lightning speed by just pressing the <kbd>Space</kbd> key. Windows, on the other hand, does not have this handy feature ... until now.
+One of the few features I missed from macOS is [Quick Look](https://en.wikipedia.org/wiki/Quick_Look). It allows users to peek into a file content in lightning speed by just pressing the <kbd>Space</kbd> key. Windows, on the other hand, does not have this handy feature ... until now.
 
-I am aware that several alternatives are already available on the Internet (e.g. [WinQuickLook](https://github.com/shibayan/WinQuickLook) and [Seer](https://github.com/ccseer/Seer)). Despite these options, I still decided to craft another one by myself, because they are either not being actively developed, lack of variety, or ask for an amount of $$$.
+I am aware that several alternatives are already available on the Internet (e.g. [WinQuickLook](https://github.com/shibayan/WinQuickLook) and [Seer](https://github.com/ccseer/Seer)). Despite these options, I still decided to craft another one by myself, because they are either not being actively developed, lack of variety, or ask for some :dollar:.
 
 ## Highlights
 
@@ -34,11 +34,13 @@ I am aware that several alternatives are already available on the Internet (e.g.
 
 Get it from one of the following sources:
 
-  * Microsoft Store (Windows 10 users only) <a href="https://www.microsoft.com/store/apps/9nv4bs3l1h4s?ocid=badge" target="_blank"><img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" height="22px" alt="Store Link" /></a> 
+  * Microsoft Store (Windows 10 users only, no preview in open/save-dialogs available) <a href="https://www.microsoft.com/store/apps/9nv4bs3l1h4s?ocid=badge" target="_blank"><img src="https://assets.windowsphone.com/13484911-a6ab-4170-8b7e-795c1e8b4165/English_get_L_InvariantCulture_Default.png" height="22px" alt="Store Link" /></a> 
   * Installer or portable archive of the stable version from [GitHub Release](https://github.com/QL-Win/QuickLook/releases) 
   * Nightly builds from [AppVeyor](https://ci.appveyor.com/project/xupefei/quicklook/build/artifacts)
 
-[What are the differences between `.msi`, `.zip`, Nightly and Store versions?](https://github.com/QL-Win/QuickLook/wiki/Difference-Between-Distributions)
+[What are the differences between `.msi`, `.zip`, Nightly and Store versions?](https://github.com/QL-Win/QuickLook/wiki/Differences-Between-Distributions)
+
+**Note:** Don't forget to check out the [plugins](https://github.com/QL-Win/QuickLook/wiki/Available-Plugins) for previewing office-files, epubs, fonts and more!
 
 
 ### Typical usecase
@@ -56,7 +58,8 @@ Get it from one of the following sources:
  - <kbd>Esc</kbd> Hide the preview window
  - <kbd>Enter</kbd> Open/Execute current file
  - <kbd>Mouse</kbd> <kbd>↑</kbd> <kbd>↓</kbd> <kbd>←</kbd> <kbd>→</kbd> Preview another file
- - <kbd>Ctrl</kbd>+<kbd>Wheel</kbd> Zoom in/out (images & pdf)
+ - <kbd>Mouse Wheel</kbd> Zoom in/out (images)
+ - <kbd>Ctrl</kbd>+<kbd>Mouse Wheel</kbd> Zoom in/out (PDFs)
  - <kbd>Wheel</kbd> Increase/decrease volume
 
 ## Supported file types, file manager intergation, etc.
@@ -72,7 +75,7 @@ See the [Translation guide](https://github.com/QL-Win/QuickLook/wiki/Translation
  - Many [open-source projects](https://github.com/QL-Win/QuickLook/wiki/On-the-Shoulders-of-Giants) and their contributors
  - Our UI designers [@OiCkilL](https://twitter.com/OiCkilL) (“Fluent” user interface since v0.3) and [@QubitsDev](https://twitter.com/qubitsdev) (application icon since v0.3)
  - [Our contributers](https://github.com/QL-Win/QuickLook/graphs/contributors) who
-     - teach QuickLook speaks *your* language
+     - teach QuickLook to speak *your* language
      - send pull requests, report bugs or give suggestions
  - ... and you 😊
 
