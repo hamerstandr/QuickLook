@@ -2,5 +2,5 @@
  
 using System.Reflection;
  
-[assembly: AssemblyVersion("3.6.2")]
-[assembly: AssemblyInformationalVersion("3.6.2-3-gf0b2702")]
+[assembly: AssemblyVersion("3.6.7")]
+[assembly: AssemblyInformationalVersion("3.6.7-gf0b2702")]
