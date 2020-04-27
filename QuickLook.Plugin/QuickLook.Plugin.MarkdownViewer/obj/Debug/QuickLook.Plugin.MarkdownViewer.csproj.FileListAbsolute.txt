@@ -1,8 +1,24 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.Resources.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.GenerateResource.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.pdb
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.Resources.resources
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.GenerateResource.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.Resources.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.Resources.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\obj\Debug\QuickLook.Plugin.MarkdownViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MarkdownViewer\QuickLook.Plugin.MarkdownViewer.pdb

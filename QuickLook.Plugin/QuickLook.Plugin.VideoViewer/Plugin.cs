@@ -1,4 +1,4 @@
-﻿// Copyright © 2017 Paddy Xu
+// Copyright © 2017 Paddy Xu
 // 
 // This file is part of QuickLook program.
 // 
@@ -20,10 +20,10 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Windows;
-using QuickLook.Common.Helpers;
-using System.Windows.Media;
 using MediaInfo;
 using QuickLook.Common.Plugin;
+using QuickLook.Common.Helpers;
+using System.Windows.Media;
 
 namespace QuickLook.Plugin.VideoViewer
 {
@@ -46,7 +46,6 @@ namespace QuickLook.Plugin.VideoViewer
         private ViewerPanel _vp;
 
         public int Priority => -10; // make it lower than TextViewer
-
         public ImageSource Icon => Resource.Video.ToImageSource();
 
         public void Init()
@@ -82,12 +81,12 @@ namespace QuickLook.Plugin.VideoViewer
             context.TitlebarOverlap = true;
 
             if (_mediaInfo == null ||
-                 !string.IsNullOrWhiteSpace(_mediaInfo.Get(StreamKind.General, 0, "VideoCount"))) // video
+                !string.IsNullOrWhiteSpace(_mediaInfo.Get(StreamKind.General, 0, "VideoCount"))) // video
             {
                 int.TryParse(_mediaInfo?.Get(StreamKind.Video, 0, "Width"), out var width);
                 int.TryParse(_mediaInfo?.Get(StreamKind.Video, 0, "Height"), out var height);
                 double.TryParse(_mediaInfo?.Get(StreamKind.Video, 0, "Rotation"), out var rotation);
-                
+
                 var windowSize = new Size
                 {
                     Width = Math.Max(100, width == 0 ? 1366 : width),

@@ -19,12 +19,12 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Windows;
-using QuickLook.Common.Helpers;
-using System.Windows.Media;
 using System.Windows.Threading;
 using MsgReader;
 using QuickLook.Common.Plugin;
+using QuickLook.Common.Helpers;
 using QuickLook.Plugin.HtmlViewer;
+using System.Windows.Media;
 
 namespace QuickLook.Plugin.MailViewer
 {

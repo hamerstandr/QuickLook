@@ -1,97 +1,290 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ActionScript.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ada.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ANTLR.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Assembly.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\AutoHotkey.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Batch.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Boo.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C#.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C++.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ceylon.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ChucK.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Clojure.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cocoa.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CoffeeScript.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cool.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CSS.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\D.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Dart.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Delphi.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Eiffel.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Elixir.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Erlang.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\F#.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Falcon.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fantom.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fortran95.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Go.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Goovy.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Gui4Cli.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haskell.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haxe.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\HTML.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Icon.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ILYC.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\INI.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Io.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Java.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JavaScript.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JSON.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Julia.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Just BASIC.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\KiXtart.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Kotlin.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lean.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lisp.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lua.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nemerle.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nim.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Objective-C.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\OCaml.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ParaSail.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pascal.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PHP.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pike.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PowerShell.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Prolog.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PureScript.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Python.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\R.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Registry.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Resource.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rexx.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rust.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scala.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scheme.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Solidity.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Spike.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQF.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQL.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Swift.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TCL.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Thrift.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TypeScript.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Vala.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBNET.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBScript.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Verilog.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VHDL.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Volt.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VS Solution.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\X10.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XC.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XML.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Xtend.xshd
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_LICENSE
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_README.md
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Translations.config
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CopyComplete
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.Resource.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.GenerateResource.cache
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ActionScript.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ada.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ANTLR.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Assembly.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\AutoHotkey.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Batch.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Boo.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C#.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C++.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ceylon.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ChucK.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Clojure.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cocoa.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CoffeeScript.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cool.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CSS.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\D.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Dart.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Delphi.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Eiffel.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Elixir.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Erlang.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\F#.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Falcon.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fantom.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fortran95.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Go.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Goovy.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Gui4Cli.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haskell.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haxe.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\HTML.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Icon.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ILYC.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\INI.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Io.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Java.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JavaScript.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JSON.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Julia.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Just BASIC.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\KiXtart.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Kotlin.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lean.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lisp.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lua.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nemerle.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nim.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Objective-C.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\OCaml.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ParaSail.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pascal.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PHP.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pike.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PowerShell.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Prolog.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PureScript.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Python.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\R.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Registry.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Resource.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rexx.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ruby.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rust.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scala.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scheme.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Solidity.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Spike.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQF.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQL.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Swift.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TCL.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Thrift.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TypeScript.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Vala.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBNET.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBScript.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Verilog.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VHDL.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Volt.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VS Solution.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\X10.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XC.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XML.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Xtend.xshd
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_LICENSE
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_README.md
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Translations.config
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CopyComplete
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ActionScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ada.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ANTLR.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Assembly.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\AutoHotkey.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Batch.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Boo.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C#.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C++.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ceylon.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ChucK.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Clojure.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cocoa.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CoffeeScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cool.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CSS.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\D.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Dart.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Delphi.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Eiffel.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Elixir.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Erlang.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\F#.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Falcon.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fantom.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fortran95.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Go.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Goovy.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Gui4Cli.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haskell.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haxe.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\HTML.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Icon.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ILYC.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\INI.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Io.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Java.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JavaScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JSON.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Julia.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Just BASIC.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\KiXtart.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Kotlin.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lean.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lisp.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lua.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nemerle.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nim.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Objective-C.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\OCaml.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ParaSail.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pascal.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PHP.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pike.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PowerShell.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Prolog.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PureScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Python.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\R.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Registry.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Resource.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rexx.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ruby.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rust.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scala.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scheme.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Solidity.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Spike.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQF.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQL.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Swift.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TCL.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Thrift.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TypeScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Vala.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBNET.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Verilog.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VHDL.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Volt.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VS Solution.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\X10.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XC.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XML.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Xtend.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_LICENSE
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_README.md
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Translations.config
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CopyComplete
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ActionScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ada.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ANTLR.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Assembly.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\AutoHotkey.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Batch.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Boo.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C#.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C++.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\C.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ceylon.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ChucK.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Clojure.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cocoa.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CoffeeScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Cool.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\CSS.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\D.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Dart.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Delphi.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Eiffel.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Elixir.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Erlang.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\F#.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Falcon.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fantom.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Fortran95.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Go.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Goovy.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Gui4Cli.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haskell.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Haxe.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\HTML.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Icon.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ILYC.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\INI.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Io.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Java.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JavaScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\JSON.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Julia.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Just BASIC.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\KiXtart.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Kotlin.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lean.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lisp.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Lua.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nemerle.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Nim.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Objective-C.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\OCaml.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\ParaSail.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pascal.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PHP.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Pike.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PowerShell.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Prolog.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\PureScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Python.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\R.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Registry.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Resource.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rexx.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Ruby.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Rust.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scala.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Scheme.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Solidity.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Spike.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQF.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\SQL.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Swift.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TCL.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Thrift.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\TypeScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Vala.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBNET.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VBScript.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Verilog.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VHDL.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Volt.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\VS Solution.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\X10.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XC.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\XML.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\Xtend.xshd
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_LICENSE
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Syntax\_README.md
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\Translations.config
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.TextViewer\QuickLook.Plugin.TextViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.csproj.CopyComplete
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.TextViewer\obj\Debug\QuickLook.Plugin.TextViewer.pdb

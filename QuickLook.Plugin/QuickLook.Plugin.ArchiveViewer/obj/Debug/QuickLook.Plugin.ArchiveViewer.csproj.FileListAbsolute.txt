@@ -1,17 +1,47 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.lref
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.baml
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.baml
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.g.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CopyComplete
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.pdb
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.GenerateResource.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.Resource.resources
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.lref
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.baml
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.baml
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.g.resources
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CopyComplete
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CopyComplete
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveInfoPanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\ArchiveFileListView.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\QuickLook.Plugin.ArchiveViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ArchiveViewer\obj\Debug\QuickLook.Plugin.ArchiveViewer.csproj.CopyComplete

@@ -26,3 +26,31 @@ C:\Intel\GitHub\QuickLook\QuickLook\obj\Debug\QuickLook.csproj.CoreCompileInputs
 C:\Intel\GitHub\QuickLook\QuickLook\obj\Debug\QuickLook.csproj.CopyComplete
 C:\Intel\GitHub\QuickLook\QuickLook\obj\Debug\QuickLook.exe
 C:\Intel\GitHub\QuickLook\QuickLook\obj\Debug\QuickLook.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\Controls\GlassLayer\GlassLayer.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\Plugin\InfoPanel\InfoPanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\ViewerWindow.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\App.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook_Content.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.exe
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\Fonts\segmdl2.ttf
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\Translations.config
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\README.md
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\LICENSE-GPL.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.exe.config
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.exe
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\App.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\Controls\GlassLayer\GlassLayer.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\Plugin\InfoPanel\InfoPanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\ViewerWindow.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\Controls\BusyDecorator\BusyDecorator.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.Properties.Resources.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\QuickLook.csproj.CopyComplete

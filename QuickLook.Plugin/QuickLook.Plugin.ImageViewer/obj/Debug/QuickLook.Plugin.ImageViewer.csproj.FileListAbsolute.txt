@@ -1,25 +1,95 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.lref
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Formats.txt
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\help.txt
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\license.txt
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Plugins.txt
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\ReadMe.txt
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Usage.txt
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\WhatsNew.txt
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\nconvert.exe
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\libwebp.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\vcomp120.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.baml
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.g.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.Resource.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.GenerateResource.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CopyComplete
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.pdb
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Formats.txt
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\license.txt
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Plugins.txt
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\ReadMe.txt
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Usage.txt
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\WhatsNew.txt
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\nconvert.exe
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\heif.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\heif.txt
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\libwebp.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\msvcp120.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\msvcr120.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_core330.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_ffmpeg330.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_imgcodecs330.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_imgproc330.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_videoio330.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\vcomp120.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.lref
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.baml
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.g.resources
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CopyComplete
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Formats.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\license.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Plugins.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\ReadMe.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Usage.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\WhatsNew.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\nconvert.exe
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\heif.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\heif.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\libwebp.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\msvcp120.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\msvcr120.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_core330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_ffmpeg330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_imgcodecs330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_imgproc330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_videoio330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\vcomp120.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CopyComplete
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Formats.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\license.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Plugins.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\ReadMe.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\Usage.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\docs\WhatsNew.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\nconvert.exe
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\heif.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\heif.txt
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\libwebp.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\msvcp120.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\msvcr120.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_core330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_ffmpeg330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_imgcodecs330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_imgproc330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\Plugins\opencv_videoio330.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\NConvert\vcomp120.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\QuickLook.Plugin.ImageViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\ImagePanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.ImageViewer\obj\Debug\QuickLook.Plugin.ImageViewer.csproj.CopyComplete

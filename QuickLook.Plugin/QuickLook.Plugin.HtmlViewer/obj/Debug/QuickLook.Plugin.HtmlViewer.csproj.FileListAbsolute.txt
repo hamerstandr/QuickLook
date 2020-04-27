@@ -1,10 +1,27 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\Interop.SHDocVw.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.ResolveComReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.Resource.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.GenerateResource.cache
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\Interop.SHDocVw.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.ResolveComReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\Interop.SHDocVw.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.ResolveComReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\Interop.SHDocVw.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.ResolveComReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\QuickLook.Plugin.HtmlViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.HtmlViewer\obj\Debug\QuickLook.Plugin.HtmlViewer.csproj.GenerateResource.cache

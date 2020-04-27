@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\
 QuickLook.Plugin.CsvViewer
 none
 false
@@ -13,8 +13,8 @@ DEBUG;TRACE
 1223369067
 
 665646962
-11472987990
+121903039720
 CsvViewerPanel.xaml;
 
-False
+True
 

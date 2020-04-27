@@ -18,9 +18,9 @@
 using System;
 using System.IO;
 using System.Windows;
-using System.Windows.Media;
-using QuickLook.Common.Helpers;
 using QuickLook.Common.Plugin;
+using QuickLook.Common.Helpers;
+using System.Windows.Media;
 
 namespace QuickLook.Plugin.CsvViewer
 {
@@ -29,9 +29,7 @@ namespace QuickLook.Plugin.CsvViewer
         private CsvViewerPanel _panel;
 
         public int Priority => 0;
-
         public ImageSource Icon => Resource.csv.ToImageSource();
-
         public void Init()
         {
         }

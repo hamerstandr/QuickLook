@@ -58,6 +58,7 @@ namespace QuickLook.Plugin.ImageViewer
 
         private bool _zoomToFit = true;
         private double _zoomToFitFactor;
+        private bool _zoomWithControlKey;
 
         public ImagePanel()
         {
@@ -79,6 +80,7 @@ namespace QuickLook.Plugin.ImageViewer
             viewPanel.PreviewMouseWheel += ViewPanel_PreviewMouseWheel;
             viewPanel.MouseLeftButtonDown += ViewPanel_MouseLeftButtonDown;
             viewPanel.MouseMove += ViewPanel_MouseMove;
+            viewPanel.MouseDoubleClick += ViewPanel_MouseDoubleClick;
 
             viewPanel.ManipulationInertiaStarting += ViewPanel_ManipulationInertiaStarting;
             viewPanel.ManipulationStarting += ViewPanel_ManipulationStarting;
@@ -96,6 +98,16 @@ namespace QuickLook.Plugin.ImageViewer
 
             ShowMeta();
             Theme = ContextObject.Theme;
+        }
+
+        public bool ZoomWithControlKey
+        {
+            get => _zoomWithControlKey;
+            set
+            {
+                _zoomWithControlKey = value;
+                OnPropertyChanged();
+            }
         }
 
         public bool ShowZoomLevelInfo
@@ -341,6 +353,11 @@ namespace QuickLook.Plugin.ImageViewer
             _dragInitPos = temp;
         }
 
+        private void ViewPanel_MouseDoubleClick(object sender, MouseButtonEventArgs e)
+        {
+            DoZoomToFit();
+        }
+
         private void ViewPanel_MouseMove(object sender, MouseEventArgs e)
         {
             if (!_dragInitPos.HasValue)
@@ -366,17 +383,15 @@ namespace QuickLook.Plugin.ImageViewer
         {
             e.Handled = true;
 
-            if ((Keyboard.Modifiers & ModifierKeys.Control) == 0)
+            // normal scroll when Control is not pressed, useful for PdfViewer
+            if (ZoomWithControlKey && (Keyboard.Modifiers & ModifierKeys.Control) == 0)
             {
-                // normal scroll
                 viewPanel.ScrollToVerticalOffset(viewPanel.VerticalOffset - e.Delta);
-
                 ImageScrolled?.Invoke(this, e.Delta);
-
                 return;
             }
 
-            // zoom
+            // otherwise, perform normal zooming
             var newZoom = ZoomFactor + ZoomFactor * e.Delta / 120 * 0.1;
 
             Zoom(newZoom);

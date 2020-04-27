@@ -99,9 +99,9 @@
     <Compile Include="QLVRegistry.cs" />
     <Compile Include="RegFileParser.cs" />
     <Compile Include="Resource.Designer.cs">
-      <DependentUpon>Resource.resx</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
     </Compile>
     <Compile Include="ViewerPanel.xaml.cs">
       <DependentUpon>ViewerPanel.xaml</DependentUpon>

@@ -99,7 +99,7 @@
     <None Include="Resources\md2html.html" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="Resources\Mark down.ico" />
+    <None Include="Resources\Mark down.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

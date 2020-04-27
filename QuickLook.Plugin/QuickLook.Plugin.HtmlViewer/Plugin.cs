@@ -37,6 +37,7 @@ namespace QuickLook.Plugin.HtmlViewer
 
         public ImageSource Icon => Resource.Web_Page.ToImageSource();
 
+
         public void Init()
         {
             Helper.SetBrowserFeatureControl();
@@ -57,11 +58,11 @@ namespace QuickLook.Plugin.HtmlViewer
             _panel = new WebpagePanel();
             context.ViewerContent = _panel;
             context.Title = Path.IsPathRooted(path) ? Path.GetFileName(path) : path;
+
             if (path.ToLower().EndsWith(".url"))
             {
                 path = Helper.GetUrlPath(path);
             }
-
             _panel.LoadFile(path);
             _panel.Dispatcher.Invoke(() => { context.IsBusy = false; }, DispatcherPriority.Loaded);
         }

@@ -20,11 +20,11 @@ using System.IO;
 using System.Linq;
 using System.Net;
 using System.Windows;
-using QuickLook.Common.Helpers;
-using System.Windows.Media;
 using System.Windows.Threading;
 using QuickLook.Common.Plugin;
 using QuickLook.Plugin.HtmlViewer;
+using QuickLook.Common.Helpers;
+using System.Windows.Media;
 
 namespace QuickLook.Plugin.MarkdownViewer
 {
@@ -34,7 +34,6 @@ namespace QuickLook.Plugin.MarkdownViewer
 
         public int Priority => 0;
         public ImageSource Icon => Resources.Mark_down.ToImageSource();
-
         public void Init()
         {
         }

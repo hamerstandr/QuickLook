@@ -15,10 +15,9 @@
 // You should have received a copy of the GNU General Public License
 // along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-using System;
 using System.IO;
 using System.Text;
-using System.Windows.Controls;
+using System.Windows;
 using System.Windows.Threading;
 using QuickLook.Common.Helpers;
 
@@ -28,7 +27,15 @@ namespace QuickLook.Plugin.HtmlViewer
     {
         public WebpagePanel()
         {
-            Zoom = (int) (100 * DpiHelper.GetCurrentScaleFactor().Vertical);
+            Zoom = (int)(100 * DpiHelper.GetCurrentScaleFactor().Vertical);
+        }
+
+        // adjust zoom when DPI changes.
+        protected override void OnDpiChanged(DpiScale oldDpi, DpiScale newDpi)
+        {
+            var ratio = newDpi.DpiScaleX / oldDpi.DpiScaleX;
+            Zoom = (int)(Zoom * ratio);
+            base.OnDpiChanged(oldDpi, newDpi);
         }
 
         public void LoadFile(string path)

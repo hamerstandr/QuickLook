@@ -20,13 +20,13 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Windows;
-using QuickLook.Common.Helpers;
-using System.Windows.Media;
 using System.Xml;
 using ICSharpCode.AvalonEdit;
 using ICSharpCode.AvalonEdit.Highlighting;
 using ICSharpCode.AvalonEdit.Highlighting.Xshd;
 using QuickLook.Common.Plugin;
+using QuickLook.Common.Helpers;
+using System.Windows.Media;
 
 namespace QuickLook.Plugin.TextViewer
 {
@@ -35,7 +35,6 @@ namespace QuickLook.Plugin.TextViewer
         private TextViewerPanel _tvp;
 
         public int Priority => -5;
-
         public ImageSource Icon => Resource.Text.ToImageSource();
 
         public void Init()

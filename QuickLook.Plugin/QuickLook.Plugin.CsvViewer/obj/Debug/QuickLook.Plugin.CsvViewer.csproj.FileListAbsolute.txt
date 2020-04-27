@@ -1,14 +1,41 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.lref
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.baml
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.g.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CopyComplete
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.Resource.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.GenerateResource.cache
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll.config
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.lref
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.baml
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.g.resources
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CopyComplete
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll.config
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CopyComplete
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll.config
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\QuickLook.Plugin.CsvViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\CsvViewerPanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.CsvViewer\obj\Debug\QuickLook.Plugin.CsvViewer.csproj.CopyComplete

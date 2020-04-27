@@ -25,6 +25,7 @@ using System.Windows.Threading;
 using ICSharpCode.AvalonEdit;
 using ICSharpCode.AvalonEdit.Document;
 using ICSharpCode.AvalonEdit.Highlighting;
+using ICSharpCode.AvalonEdit.Rendering;
 using QuickLook.Common.Helpers;
 using QuickLook.Common.Plugin;
 using UtfUnknown;
@@ -46,7 +47,9 @@ namespace QuickLook.Plugin.TextViewer
             WordWrap = true;
             IsReadOnly = true;
             IsManipulationEnabled = true;
-            ICSharpCode.AvalonEdit.Search.SearchPanel.Install(this);
+            Options.EnableEmailHyperlinks = false;
+            Options.EnableHyperlinks = false;
+
             ManipulationInertiaStarting += Viewer_ManipulationInertiaStarting;
             ManipulationStarting += Viewer_ManipulationStarting;
             ManipulationDelta += Viewer_ManipulationDelta;
@@ -54,6 +57,9 @@ namespace QuickLook.Plugin.TextViewer
             PreviewMouseWheel += Viewer_MouseWheel;
 
             FontFamily = new FontFamily(TranslationHelper.Get("Editor_FontFamily"));
+
+            TextArea.TextView.ElementGenerators.Add(new TruncateLongLines());
+            ICSharpCode.AvalonEdit.Search.SearchPanel.Install(this);
 
             LoadFileAsync(path);
         }
@@ -92,6 +98,29 @@ namespace QuickLook.Plugin.TextViewer
             e.Mode = ManipulationModes.Translate;
         }
 
+        private class TruncateLongLines : VisualLineElementGenerator
+        {
+            const int maxLength = 10000;
+            const string ellipsis = "……………";
+
+            public override int GetFirstInterestedOffset(int startOffset)
+            {
+                var line = CurrentContext.VisualLine.LastDocumentLine;
+                if (line.Length > maxLength)
+                {
+                    int ellipsisOffset = line.Offset + maxLength - ellipsis.Length;
+                    if (startOffset <= ellipsisOffset)
+                        return ellipsisOffset;
+                }
+                return -1;
+            }
+
+            public override VisualLineElement ConstructElement(int offset)
+            {
+                return new FormattedTextElement(ellipsis, CurrentContext.VisualLine.LastDocumentLine.EndOffset - offset);
+            }
+        }
+
         private void LoadFileAsync(string path)
         {
             Task.Run(() =>
@@ -103,15 +132,18 @@ namespace QuickLook.Plugin.TextViewer
                 using (var s = new FileStream(path, FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
                 {
                     tooLong = s.Length > maxLength;
-                    while (s.Position < s.Length && buffer.Length < maxLength)
-                    {
-                        if (_disposed)
-                            break;
+                    try {
+                        while (s.Position < s.Length && buffer.Length < maxLength)
+                        {
+                            if (_disposed)
+                                break;
 
-                        var lb = new byte[8192];
-                        var count = s.Read(lb, 0, lb.Length);
-                        buffer.Write(lb, 0, count);
-                    }
+                            var lb = new byte[8192];
+                            var count = s.Read(lb, 0, lb.Length);
+                            buffer.Write(lb, 0, count);
+                        }
+                    } catch { s.Close(); }
+                    
                 }
 
                 if (_disposed)

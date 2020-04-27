@@ -1,4 +1,4 @@
-﻿// Copyright © 2017 Paddy Xu
+// Copyright © 2017 Paddy Xu
 // 
 // This file is part of QuickLook program.
 // 
@@ -63,6 +63,7 @@ namespace QuickLook.Plugin.HtmlViewer
                 key?.SetValue(appName, value, RegistryValueKind.DWord);
             }
         }
+
         internal static string GetUrlPath(string url)
         {
             int index = -1;
@@ -82,6 +83,5 @@ namespace QuickLook.Plugin.HtmlViewer
             }
             return url;
         }
-        //
     }
 }

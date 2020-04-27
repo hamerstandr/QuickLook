@@ -1,10 +1,24 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.g.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CopyComplete
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.Resource.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.GenerateResource.cache
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CopyComplete
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CopyComplete
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.MailViewer\QuickLook.Plugin.MailViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.MailViewer\obj\Debug\QuickLook.Plugin.MailViewer.csproj.CopyComplete

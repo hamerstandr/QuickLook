@@ -20,9 +20,9 @@ using System.IO;
 using System.Runtime.ExceptionServices;
 using System.Text;
 using System.Windows.Threading;
+using QuickLook.Common.Plugin;
 using QuickLook.Common.Helpers;
 using System.Windows.Media;
-using QuickLook.Common.Plugin;
 
 namespace QuickLook.Plugin.PDFViewer
 {

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Intel\GitHub\QuickLook\QuickLook\obj\Debug\
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\obj\Debug\
 QuickLook
 none
 false
 DEBUG;TRACE
-C:\Intel\GitHub\QuickLook\QuickLook\App.xaml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook\App.xaml
 41815027715
 11043336527
-40708839483
-70-274767129
+43-659950209
+71-1944702195
 Controls\GlassLayer\GlassLayer.xaml;Plugin\InfoPanel\InfoPanel.xaml;ViewerWindow.xaml;Controls\BusyDecorator\BusyDecorator.xaml;
 
 True

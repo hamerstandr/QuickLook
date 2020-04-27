@@ -33,9 +33,7 @@ namespace QuickLook.Plugin.ArchiveViewer
         private ArchiveInfoPanel _panel;
 
         public int Priority => -5;
-
         public ImageSource Icon => Resource.Zip.ToImageSource();
-
         public void Init()
         {
         }

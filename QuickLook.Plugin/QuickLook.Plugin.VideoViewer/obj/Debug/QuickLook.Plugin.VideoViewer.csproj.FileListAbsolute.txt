@@ -1,54 +1,160 @@
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csprojAssemblyReference.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\Styles.baml
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.lref
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.baml
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.g.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.Properties.Resource.resources
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.GenerateResource.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CoreCompileInputs.cache
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.pdb
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\DirectShowLib-2005.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter32.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter64.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avcodec-lav-58.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avfilter-lav-7.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avformat-lav-58.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avresample-lav-4.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avutil-lav-56.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x64\MediaInfo.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x86\MediaInfo.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\IntelQuickSyncDecoder.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\libbluray.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\swscale-lav-5.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avcodec-lav-58.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avfilter-lav-7.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avformat-lav-58.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avresample-lav-4.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avutil-lav-56.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\IntelQuickSyncDecoder.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\libbluray.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\swscale-lav-5.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\COPYING
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax.bak
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVFilters.Dependencies.manifest
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax.bak
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax.bak
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\COPYING
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax.bak
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVFilters.Dependencies.manifest
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax.bak
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax.bak
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.dll
-C:\Intel\GitHub\QuickLook\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.pdb
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CopyComplete
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.dll
-C:\Intel\GitHub\QuickLook\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.Resource.resources
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\DirectShowLib-2005.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter32.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter64.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avcodec-lav-58.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avfilter-lav-7.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avformat-lav-58.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avresample-lav-4.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avutil-lav-56.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x64\MediaInfo.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x86\MediaInfo.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\IntelQuickSyncDecoder.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\libbluray.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\swscale-lav-5.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avcodec-lav-58.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avfilter-lav-7.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avformat-lav-58.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avresample-lav-4.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avutil-lav-56.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\IntelQuickSyncDecoder.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\libbluray.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\swscale-lav-5.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\COPYING
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax.bak
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVFilters.Dependencies.manifest
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax.bak
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax.bak
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\COPYING
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax.bak
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVFilters.Dependencies.manifest
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax.bak
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax.bak
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.dll
+C:\Documents\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.pdb
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csprojAssemblyReference.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\Styles.baml
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.lref
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.baml
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.g.resources
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.Properties.Resource.resources
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.GenerateResource.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CoreCompileInputs.cache
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CopyComplete
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.dll
+C:\Documents\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\DirectShowLib-2005.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter32.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter64.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avcodec-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avfilter-lav-7.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avformat-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avresample-lav-4.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avutil-lav-56.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x64\MediaInfo.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x86\MediaInfo.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\IntelQuickSyncDecoder.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\libbluray.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\swscale-lav-5.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avcodec-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avfilter-lav-7.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avformat-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avresample-lav-4.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avutil-lav-56.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\IntelQuickSyncDecoder.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\libbluray.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\swscale-lav-5.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\COPYING
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVFilters.Dependencies.manifest
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\COPYING
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVFilters.Dependencies.manifest
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\Styles.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.Properties.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CopyComplete
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-master\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csprojAssemblyReference.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\Styles.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer_MarkupCompile.lref
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\DirectShowLib-2005.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter32.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\EVRPresenter64.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avcodec-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avfilter-lav-7.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avformat-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avresample-lav-4.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\avutil-lav-56.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x64\MediaInfo.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\MediaInfo-x86\MediaInfo.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\IntelQuickSyncDecoder.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\libbluray.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\swscale-lav-5.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avcodec-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avfilter-lav-7.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avformat-lav-58.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avresample-lav-4.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\avutil-lav-56.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\IntelQuickSyncDecoder.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\libbluray.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\swscale-lav-5.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\COPYING
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVAudio.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVFilters.Dependencies.manifest
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVSplitter.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x64\LAVVideo.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\COPYING
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVAudio.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVFilters.Dependencies.manifest
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVSplitter.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\LAVFilters-0.72-x86\LAVVideo.ax.bak
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.dll
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\Build\Debug\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\QuickLook.Plugin.VideoViewer.pdb
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\ViewerPanel.baml
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.g.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.Properties.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.Resource.resources
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.GenerateResource.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CoreCompileInputs.cache
+C:\Users\hamed\Documents\Visual Studio 2019\Project\QuickLook-hamed\QuickLook.Plugin\QuickLook.Plugin.VideoViewer\obj\Debug\QuickLook.Plugin.VideoViewer.csproj.CopyComplete

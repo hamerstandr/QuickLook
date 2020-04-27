@@ -21,9 +21,9 @@ using System.IO;
 using System.Linq;
 using System.Windows;
 using QuickLook.Common.Helpers;
-using System.Windows.Media;
 using QuickLook.Common.Plugin;
 using QuickLook.Plugin.ImageViewer.AnimatedImage;
+using System.Windows.Media;
 
 namespace QuickLook.Plugin.ImageViewer
 {
@@ -36,7 +36,7 @@ namespace QuickLook.Plugin.ImageViewer
             ".iiq", ".k25", ".kdc", ".mdc", ".mef", ".mos", ".mrw", ".nef", ".nrw", ".obm", ".orf", ".pef", ".ptx",
             ".pxn", ".r3d", ".raf", ".raw", ".rwl", ".rw2", ".rwz", ".sr2", ".srf", ".srw", ".x3f",
             // normal
-            ".bmp", ".ico", ".icon", ".jpg", ".jpeg", ".psd", ".wdp", ".tif", ".tiff", ".tga", ".webp", ".pbm",
+            ".bmp",".heic", ".heif", ".ico", ".icon", ".jpg", ".jpeg", ".psd", ".wdp", ".tif", ".tiff", ".tga", ".webp", ".pbm",
             ".pgm", ".ppm", ".pnm",
             // animated
             ".png", ".apng", ".gif"
@@ -45,7 +45,6 @@ namespace QuickLook.Plugin.ImageViewer
         private NConvert _meta;
 
         public int Priority => 0;
-
         public ImageSource Icon => Resource.Image.ToImageSource();
 
         public void Init()

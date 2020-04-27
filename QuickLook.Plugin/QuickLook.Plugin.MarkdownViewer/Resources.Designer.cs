@@ -77,7 +77,7 @@ namespace QuickLook.Plugin.MarkdownViewer {
         ///    &lt;meta http-equiv=&quot;Content-Type&quot; content=&quot;text/html; charset=UTF-8&quot;&gt;
         ///  &lt;/head&gt;
         ///  &lt;body&gt;
-        ///    &lt;style&gt;&lt;!-- https://github.com/sindresorhus/github-markdown-css --&gt;.markdown-body hr::after,.markdown-body::after{clear:both}@font-face{font-family:octicons-link;src:url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAZwABAAAAAACFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEU0lHAAAGaAAAAAgAAAAIAAAAAUdTVUIAAAZcAAAACgAAAAoAAQAAT1MvMgAAAyQAAABJAAAAYFYEU3RjbWFwAAADcAAAAEUAAACAAJThvmN2dCAAA [rest of string was truncated]&quot;;.
+        ///    &lt;style&gt;&lt;!-- https://github.com/sindresorhus/github-markdown-css --&gt;.markdown-body hr::after,.markdown-body::after{clear:both}@font-face{font-family:octicons-link;src:url(data:font/woff;charset=utf-8;base64,d09GRgABAAAAAAZwABAAAAAACFQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEU0lHAAAGaAAAAAgAAAAIAAAAAUdTVUIAAAZcAAAACgAAAAoAAQAAT1MvMgAAAyQAAABJAAAAYFYEU3RjbWFwAAADcAAAAEUAAACAAJThvmN2dCAAAATkAAA [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string md2html {
             get {
